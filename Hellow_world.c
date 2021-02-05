@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 int main (void)
 {
 	
-	
-	return 0;
+	printf (Hellow_world);
 	printf ("Petushnyak if foggot");
+	return 0;
+	
 	
 }
